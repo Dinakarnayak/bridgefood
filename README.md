@@ -117,3 +117,25 @@ bridgefood/
 ## Development boundaries
 
 Keep this repository and all demonstrations non-commercial until the founder has confirmed that their UK immigration permission allows the proposed business activity. Do not accept payments, provide live delivery, trade, or onboard real customers/restaurants during this prototype stage.
+
+
+## Customer application — design inspiration
+
+The customer-facing experience is being shaped around a clean, premium mobile food-ordering flow: restaurant discovery, food categories, product cards, a basket, order summary and checkout. The visual references below are inspiration only; they are not implemented payment integrations or production screens.
+
+### Mobile discovery, cart and checkout concept
+
+![BridgeFood customer app inspiration — discovery, cart and checkout](https://images.openai.com/static-rsc-4/1vi7YsWBhxSGLea1vIcT2WMMJGzLecu5QgvahLNLM9G687dQD2Ed6tNZPbqhIl70x7m1tTO3PK2rd-LCkEwt0GBNgQd4cidDudFrTnurua493n8ot7mhEjPE4zYDB5OzCuGWSjSE_T3qAeHU738Lt9vHR5LSqqp3aRDhuR3zq34?purpose=inline)
+
+### Additional UI references
+
+| Reference | Focus |
+|---|---|
+| [Food Delivery Mobile App UI/UX Design — Ronas IT](https://dribbble.com/) | Food discovery and ordering UI |
+| [Food Delivery App UI Design — Orbix Studio](https://dribbble.com/) | Ordering and checkout flow |
+
+Reference image links:
+- [Ronas IT visual reference](https://images.openai.com/static-rsc-4/Aj9kjZAlo57nsyefCnRvS8Ji5qwGr3_m-6dhmqmwwLwg_tt07DK9V9iakvbq2bd_jHdlce4V012w3bFXPHRs8m95HdE3AcaykVJRCy-BDmtTGcSt-7SK8xsJcLL0hn-fqDPF1OJFqCgPw-5VHjUmMVomI3GYYftPNFgj4aOyk0k?purpose=inline)
+- [Orbix Studio visual reference](https://images.openai.com/static-rsc-4/4rKGVxbQVHYljWGPuU3qLb-Heko7BXONj4LrmD7cJbt9uieYALItK7BtOnNaZopjqJRBVZRNUeEweogi3He4xRNzlBc7tQfm4kvKUsE1Da_YnfdGN0aUpsZWVhS1Vi5PYCc5WuLw0lzta_ldATb86rJRUVzIu8Kz_53hYidgInY?purpose=inline)
+
+*These third-party references are for design direction only. BridgeFood is an independent, non-commercial prototype and is not affiliated with the designers or Dribbble creators.*
